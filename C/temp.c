@@ -5,11 +5,3 @@ int main(void) {
         printf("Hello World\n");
     return 0;
 }
-///
-//
-///
-// 엄마 바보
-//
-//
-//
-///
